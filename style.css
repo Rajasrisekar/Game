@@ -1,0 +1,25 @@
+body{
+    background-image: url(./1.png);
+    background-repeat: no-repeat;
+    background-size: 100% 170%;
+    font-weight: bold;
+}
+.s1{
+    background-image: url(./2.png);background-repeat: no-repeat;background-size: 500px 300px;
+    text-align: center;
+    height: 100pxpx;
+    width: 30%;
+    margin: 10px;
+    padding: 10px;
+    border: solid black 2px;
+    border-radius: 10px;
+    margin-left: 500px;
+    margin-top: 250px;
+  
+}
+.s1 button{
+    color: black;
+    background-color: yellowgreen
+    border: solid white 2px;
+    border-radius: 5px;
+}
